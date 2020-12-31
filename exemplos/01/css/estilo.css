@@ -1,0 +1,19 @@
+section.espacoReduzido > a.destaque {
+  text-align: justify;
+}
+
+section.espacoReduzido > a.destaque > span {
+  text-transform: uppercase;
+}
+
+section.espacoReduzido > a.destaque > h1 {
+  margin: 0.3rem 0;
+}
+
+section.espacoReduzido > ul  {
+  margin: 0;
+  padding: 0;
+}
+section.espacoReduzido > ul > li {
+  list-style-type: none;
+}

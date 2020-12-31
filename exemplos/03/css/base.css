@@ -1,0 +1,29 @@
+.espacoReduzido .noticia a.manchete {
+  color: #222222;
+  text-decoration: none;
+}
+.espacoReduzido .noticia a.manchete:hover {
+  color: #b81919;
+}
+
+.espacoReduzido .noticia a.manchete strong.subtitulo {
+  font-weight: normal;
+}
+
+.espacoReduzido .noticia a.manchete .subtitulo {
+  text-transform: uppercase;
+  color: #b81919;
+}
+
+.espacoReduzido .noticia a.manchete:hover .subtitulo {
+  color: #222222;
+}
+
+.espacoReduzido .noticia a.manchete figure {
+  margin: 0;
+  padding: 0;
+}
+
+.espacoReduzido .noticia a.manchete h2 {
+  margin: 0.5rem 0;
+}

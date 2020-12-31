@@ -1,0 +1,30 @@
+.espacoReduzido a.manchete figure img {
+  border-radius: 0.5rem;
+  width: 280px;
+}
+
+.espacoReduzido .noticia {
+  display: flex;
+}
+
+.espacoReduzido .noticia.noticia-ampliada {
+  margin-bottom: 1rem;
+  
+}
+
+.espacoReduzido .noticia.noticia-ampliada a {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #cccccc;
+}
+
+.espacoReduzido .noticia.noticia-reduzida h2 {
+  font-weight: normal;
+}
+
+.espacoReduzido .noticia a.manchete {
+  width: 50%;
+}
+
+.espacoReduzido .noticia a.manchete:first-child {
+  margin-right: 1rem;
+}

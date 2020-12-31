@@ -1,0 +1,44 @@
+section.espacoReduzido a {
+  text-decoration: none;
+  color: #222222;
+}
+
+section.espacoReduzido a:hover {
+  color: #b81919;
+}
+
+section.espacoReduzido > a.destaque {
+  text-align: justify;
+}
+
+section.espacoReduzido > a.destaque > span {
+  color: #b81919;
+}
+
+section.espacoReduzido > a.destaque:hover > span {
+  color: #222222;
+}
+
+section.espacoReduzido > a.destaque > span {
+  text-transform: uppercase;
+}
+
+section.espacoReduzido > a.destaque > h1 {
+  font-size: 2rem;
+  margin: 0.3rem 0;
+}
+
+section.espacoReduzido > a.destaque > p {
+  color: #555555;
+}
+
+section.espacoReduzido > ul  {
+  margin: 0;
+  padding: 0;
+}
+section.espacoReduzido > ul > li {
+  list-style-type: none;
+  margin: 0.3rem 0;
+  border-left: 3px solid #b81919;
+  padding-left: 0.4rem;
+}
